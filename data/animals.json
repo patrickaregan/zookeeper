@@ -126,6 +126,15 @@
         "hangry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Penelope",
+      "species": "Cat",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "13"
     }
   ]
 }

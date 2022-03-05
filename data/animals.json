@@ -135,6 +135,15 @@
         "zany"
       ],
       "id": "13"
+    },
+    {
+      "name": "Remington",
+      "species": "Cat",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "14"
     }
   ]
 }
